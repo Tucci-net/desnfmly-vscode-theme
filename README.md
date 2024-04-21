@@ -1,3 +1,4 @@
 # desnfmly-vscode-theme
-general Dark theme
-Utilized https://themes.vscode.one for gen
+*general Dark theme
+*No Themes forked!
+*Utilized https://themes.vscode.one for generation
